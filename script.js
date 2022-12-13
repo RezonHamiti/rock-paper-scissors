@@ -2,13 +2,11 @@
 const choices = ["rock", "paper", "scissors"]
 
 const game = () => {
-    // play game
-    // play five rounds 
-    // console based 
+    // five rounds
 }
 
 const playRound = () => {
-    const playerSelection = 
+   
 }
 
 const playerChoice = () => {
